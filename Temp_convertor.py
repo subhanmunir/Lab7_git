@@ -1,9 +1,9 @@
-celsius = float(input("Outside temperature in Celsius: "))
+celsius = float(input("Temperature in Celsius: "))
 
 fahrenheit = celsius * 9 / 5 + 32
 
-print("Temperature in Fahrenheit outside:", fahrenheit)
+print("Temperature in Fahrenheit:", fahrenheit)
 
 kelvin = celsius + 273
 
-print("Temperature in Kelvin outside:", kelvin)
+print("Temperature in Kelvin:", kelvin)
